@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">, I'm Udit kirar</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Udit kirar</h1>
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?&color=2484FF&size=32&lines=Passionate+Developer💙;Innovative+Thinker⭐;Lover+Of+Coding+Problems🎯;Constantly+Learning⚡&font=Pacifico&center=true&height=50&width=600&vCenter=true)](https://github.com/Heir-of-God)
